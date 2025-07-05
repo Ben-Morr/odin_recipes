@@ -1,0 +1,1 @@
+This is a simple recipe website that will continually updated as I progress through lessons on the odin project.
